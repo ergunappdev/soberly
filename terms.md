@@ -1,6 +1,6 @@
 # Terms of Use
 
-**Last updated: August 24, 2026**
+**Last updated: October 22, 2026**
 
 These Terms of Use ("Terms") govern your use of the Soberly application ("Soberly", "the App", "we", "our", or "us"). By downloading, accessing, or using Soberly, you agree to these Terms.
 
@@ -42,11 +42,11 @@ Soberly does not guarantee any particular result, outcome, or level of success f
 
 Soberly may offer paid subscriptions or other premium features.
 
-Purchases made through Soberly are processed by Apple through the App Store and are subject to Apple's applicable terms and policies.
+Purchases made through Soberly are processed by Apple through the App Store on iOS, and by Google through Google Play on Android, and are subject to the applicable terms and policies of the store you purchased from.
 
 Prices, subscription periods, available plans, and features may change from time to time.
 
-Subscription management and cancellation are handled through your Apple account and App Store settings.
+Subscription management and cancellation are handled through your Apple account and App Store settings on iOS, or through your Google account and Google Play settings on Android.
 
 ## 6. Free Trials and Introductory Offers
 
@@ -54,7 +54,7 @@ If Soberly offers a free trial or introductory offer, the applicable duration, p
 
 Unless otherwise stated or required by applicable law, a subscription may automatically renew after a trial or subscription period unless you cancel it before the renewal date.
 
-You can manage or cancel subscriptions through your Apple account and App Store settings.
+You can manage or cancel subscriptions through your Apple account and App Store settings on iOS, or through your Google account and Google Play settings on Android.
 
 ## 7. Intellectual Property
 

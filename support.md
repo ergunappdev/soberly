@@ -13,7 +13,7 @@ When contacting support, including the following information can help us assist 
 * A description of the issue
 * The steps that caused the problem
 * Your device model
-* Your iOS version
+* Your iOS or Android version
 * Your Soberly app version
 * Screenshots, if applicable
 
@@ -25,9 +25,9 @@ If you have a question about a subscription or purchase, please contact us at:
 
 **[ergun.app.dev@gmail.com](mailto:ergun.app.dev@gmail.com)**
 
-Purchases made through the App Store are processed by Apple. Soberly does not have access to your payment card or banking information.
+Purchases are processed by Apple through the App Store on iOS, and by Google through Google Play on Android. Soberly does not have access to your payment card or banking information.
 
-For billing, refund, or payment-related issues, you may also need to contact Apple directly.
+For billing, refund, or payment-related issues, you may also need to contact Apple or Google directly, depending on where you bought the subscription.
 
 ## Feedback
 
@@ -48,7 +48,7 @@ If Soberly is crashing, not displaying your progress correctly, or a feature is 
 * A description of the problem
 * What you were doing when the problem occurred
 * Your device model
-* Your iOS version
+* Your iOS or Android version
 * Your Soberly app version
 * Screenshots or screen recordings, if available
 
